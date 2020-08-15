@@ -3,4 +3,4 @@ This repository consists of files required to deploy a **Machine Learning Web Ap
 
 * If you want to view the deployed model, click on the following link : https://diabetes-predictor-streamlit.herokuapp.com/
 
-* If you are searching for Code, Algorithms used and Accuracy of the model, click on the following link: https://github.com/kapilthakre/Diabetes-Prediction-Deployment
+* If you are searching for Code, Algorithms used and Accuracy of the model, click on the following link: https://github.com/kapilthakre/Diabetes-Prediction
